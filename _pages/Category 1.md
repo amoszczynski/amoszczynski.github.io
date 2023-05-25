@@ -1,6 +1,6 @@
 ---
-title: "Category 1"
+title: Category 1
 layout: category
-permalink: /categories/Blog
-author_profile: true
+permalink: /categories/Blog/
+taxonomy: Category 1
 ---
